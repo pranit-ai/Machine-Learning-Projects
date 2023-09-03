@@ -1,6 +1,6 @@
 ## Project Overview
 
-This repository contains code and data for the project "Road Traffic Forecasting". The project aims to predict traffic counts using various deep learning models, including LSTM and GRU, and visualize traffic points. The code for this project is organized into two main folders: `01-Data Landscape` and '02-Notebooks`.
+This repository contains code and data for the project "Road Traffic Forecasting". The project aims to predict traffic counts using various deep learning models, including LSTM and GRU, and visualize traffic points. The code for this project is organized into two main folders: `01-Data Landscape` and `02-Notebooks`.
 
 ## Folder Structure
 
